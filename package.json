@@ -1,0 +1,22 @@
+{
+  "name": "Floating Screen Template For Electron",
+  "version": "1.0.0",
+  "description": "A minimal Electron Floating Screen Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [
+    "Electron",
+    "floating",
+    "screen",
+    "template",
+    "demo"
+  ],
+  "author": "chiqors",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^9.0.3"
+  }
+}
