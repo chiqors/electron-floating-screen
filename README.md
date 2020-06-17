@@ -241,9 +241,3 @@ app.on('ready', () => {
 ```
 
 By running the **npm start** command again, you can check the loading screen operation, it remains visible for about 2 seconds and then it's destroyed, to show up the main window.
-
-## CONCLUSIONS
-
-This tutorial ends here, by this way you can create also dialog boxes or secondary windows that can be created and destroyed depending on the main window.
-
-For example in my last project I revisited the default windows that are shown as **alert()** or **confirm()**, intercepting the javascript events from the main window and thus creating much more beautiful and aligned window alternatives to the operating system that hosts the application.
